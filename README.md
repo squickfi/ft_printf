@@ -2,7 +2,7 @@
 I rewrote part of printf(). For some reason.
 ## What it does
 - regular characters are just printed.
-- '-' and '0' flags affects output.
+- '-' and '0' flags affect output.
 - field width and precision are taken into account.
 - %c print a single character.
 - %s print a string of characters.
